@@ -1,0 +1,118 @@
+body {
+    font: 16px/28px arial, sans-serif;
+    background-color: #eaeaea;
+    color: #425465;
+    background-image: url(img/ht6uy-min.jpg);
+    background-size: cover;
+}
+
+.container {
+    width: 830px;
+    margin: auto;
+    background-color: #eaeaea;
+}
+
+.header {
+    padding: 1px;
+    color: #425465;
+    padding-left: 20px;
+}
+
+h2 .judul {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #425465;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-right: 45px;
+    margin-left: -38px;
+}
+
+.header a {
+    text-decoration: none;
+    color: #425465;
+    padding: 2px;
+}
+
+.header a:hover {
+    background-color: #425465;
+    color: #eaeaea;
+}
+
+.gambar {
+    height: 250px;
+    background-image: url(img/carpenter-man-working-wood_23-2148748789.jpg);
+    background-size: cover;
+    background-position: 0 -180px;
+    border-top: 5px solid #425465;
+    border-bottom: 5px solid #425465; 
+}
+
+.hero {
+    color: #425465;
+}
+
+.judulhero {
+    color: #425465;
+    padding-right: 30px;
+    padding-left: 10px;
+}
+
+.subscribe {
+    width: 500px;
+    height: 90px;
+    color: #425465;
+    padding-right: 30px;
+    padding-left: 10px;
+}
+
+.hero .button_1 {
+    height: 35px;
+    background: #425465;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #eaeaea;
+}
+
+.main {
+    padding: 15px;
+    background: #eaeaea;
+    color: #425465;
+    margin: 10px 0 10px 0;
+}
+
+.main .judul {
+    margin-top: -30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #425465;
+}
+
+
+.dark {
+    padding: 15px;
+    background-color: #eaeaea;
+    color: #425465;
+    margin: 10px 0 10px 0;
+}
+
+.dark .tema {
+    margin-top: -20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #425465;
+}
+
+.footer {
+    background-color: #425465;
+    padding: 7px;   
+}
+
+.footer .copy {
+    color: #eaeaea;
+    text-align: center;
+    font-size: 13px;
+}

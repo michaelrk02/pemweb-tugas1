@@ -1,0 +1,74 @@
+body {
+    font: 16px/28px arial, sans-serif;
+    background-color: #eaeaea;
+    color: #425465;
+    background-image: url(img/ht6uy-min.jpg);
+    background-size: cover;
+}
+
+.container {
+    width: 830px;
+    margin: auto;
+    background-color: #eaeaea;
+}
+
+.header {
+    padding: 1px;
+    color: #425465;
+    padding-left: 20px;
+}
+
+.navbar li {
+    display: inline-block;
+    margin-top: -30px;
+    margin-right: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #425465;
+    padding: 5px;
+}
+
+.navbar a:hover {
+    background-color: #425465;
+    color: #eaeaea;
+}
+
+.hero {
+    height: 250px;
+    background-image: url(img/c.jpg);
+    background-size: cover;
+    background-position: center;
+    border-top: 5px solid #425465;
+    border-bottom: 5px solid #425465;
+}
+
+.content {
+    padding: 2px;
+}
+
+.content h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #425465;
+    padding-left: 5px;
+}
+
+.content p {
+    padding-left: 5px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #425465;
+}
+
+.footer {
+    background-color: #425465;
+    padding: 7px;   
+}
+
+.footer .copy {
+    color: #eaeaea;
+    text-align: center;
+    font-size: 13px;
+}
